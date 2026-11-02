@@ -1,4 +1,4 @@
-# blocksigner-org
+# BlockSigner
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,112 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 blocksigner-org is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://blocksigner.org/
+
+**Areas:** Company
+
+## BlockSigner on APIs.io
+
+Everything profiled for BlockSigner is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blocksigner-org/](https://apis.io/providers/blocksigner-org/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [BlockSigner Agent World (12) API](https://apis.io/apis/blocksigner-org/blocksigner-org-agent-world-12-api/) — hire the six living agents - $0.005 to $0.05
+- [BlockSigner Free API](https://apis.io/apis/blocksigner-org/blocksigner-org-free-api/) — The Free API from BlockSigner — 1 operation(s) for free.
+- [BlockSigner Provenance (5) API](https://apis.io/apis/blocksigner-org/blocksigner-org-provenance-5-api/) — wash-trading ratings, funder-traced audits and the full research dataset for Algorand x402 merchants - $0.005 to $5.00
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Blocksigner Org Agentic Access](https://apis.io/agentic-access/blocksigner-org/blocksigner-org-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Product](https://apis.io/schemas/blocksigner-org/blocksigner-org-product/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Blocksigner Org Context](https://apis.io/jsonld/blocksigner-org/blocksigner-org-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [BlockSigner API Rules](https://apis.io/rules/blocksigner-org/blocksigner-org-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blocksigner Org Domain Security](https://apis.io/security/blocksigner-org/blocksigner-org-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://blocksigner.org/)
+- [Terms of service](https://blocksigner.org/terms)
+- [Privacy policy](https://blocksigner.org/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.6** — thin · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 50.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 23.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blocksigner-org/](https://apis.io/providers/blocksigner-org/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BlockSigner: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blocksigner-org/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
